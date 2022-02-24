@@ -2,7 +2,7 @@
 
 # Created by: Miguel Santacruz
 # Created on: February 2022
-# This is the "Hello, world!" program, with proper style
+# This program calculates area and perimeter
 
 
 def main():
