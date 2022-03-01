@@ -9,11 +9,11 @@ def main():
     # This function calculates area and perimeter
 
     print("If a rectangle has the dimensions:")
-    print("5cm x 3cm")
-    print("")
-    print("Its area is {}cm^2".format(5 * 3))
-    print("Its perimeter is {}cm".format(2 * (5 + 3)))
-
+    print("5 cm x 3 cm")
+    print("")  
+    print("Its area is {} cm²".format(5 * 3))
+    print("Its perimeter is {} cm".format(2 * (5 + 3)))
+  
 
 if __name__ == "__main__":
     main()
